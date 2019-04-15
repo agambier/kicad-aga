@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Mega2560Pro_Embed_RobotDyn
+F https://robotdyn.com/mega-2560-pro-embed-ch340g-atmega2560-16au.html
+$ENDCMP
+#
 #End Doc Library
