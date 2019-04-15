@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF Mega2560Pro_Embed_RobotDyn U 0 40 Y Y 1 F N
 F0 "U" -50 0 50 H V C CNN
 F1 "Mega2560Pro_Embed_RobotDyn" -50 0 50 H V C CNN
-F2 "" -50 0 50 H I C CNN
+F2 "aga:Mega2560Pro_Embed_RobotDyn" -50 0 50 H I C CNN
 F3 "" -50 0 50 H I C CNN
 DRAW
 S -1050 2050 900 -2300 0 1 0 N
