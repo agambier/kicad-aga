@@ -194,25 +194,21 @@ ENDDEF
 # TDPT_2,5__4-SC-5,08
 #
 DEF TDPT_2,5__4-SC-5,08 J 0 30 Y Y 1 F N
-F0 "J" 650 300 50 H V L CNN
-F1 "TDPT_2,5__4-SC-5,08" 650 200 50 H V L CNN
-F2 "AGA:TDPT254SC508" 650 100 50 H I L CNN
-F3 "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1017493&library=usen&tab=1" 650 0 50 H I L CNN
-F4 "PHOENIX CONTACT - TDPT 2,5/ 4-SC-5,08 - TB, WIRE TO BRD, 4POS, 12AWG" 650 -100 50 H I L CNN "Description"
-F5 "19.2" 650 -200 50 H I L CNN "Height"
-F6 "Phoenix Contact" 650 -300 50 H I L CNN "Manufacturer_Name"
-F7 "TDPT 2,5/ 4-SC-5,08" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
-F8 "TDPT 2,5/ 4-SC-5,08" 650 -500 50 H I L CNN "Arrow Part Number"
+F0 "J" 450 0 50 H V L CNN
+F1 "TDPT_2,5__4-SC-5,08" 450 -100 50 H V L CNN
+F2 "AGA:TDPT254SC508" 450 -200 50 H I L CNN
+F3 "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1017493&library=usen&tab=1" 450 -300 50 H I L CNN
+F4 "PHOENIX CONTACT - TDPT 2,5/ 4-SC-5,08 - TB, WIRE TO BRD, 4POS, 12AWG" 450 -400 50 H I L CNN "Description"
+F5 "19.2" 450 -500 50 H I L CNN "Height"
+F6 "Phoenix Contact" 450 -600 50 H I L CNN "Manufacturer_Name"
+F7 "TDPT 2,5/ 4-SC-5,08" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+F8 "TDPT 2,5/ 4-SC-5,08" 450 -800 50 H I L CNN "Arrow Part Number"
 DRAW
-P 5 0 1 6 200 100 600 100 600 -400 200 -400 200 100 N
-X ~ 1 800 0 200 L 50 50 0 0 P
-X ~ 2 0 0 200 R 50 50 0 0 P
-X ~ 3 800 -100 200 L 50 50 0 0 P
-X ~ 4 0 -100 200 R 50 50 0 0 P
-X ~ 5 800 -200 200 L 50 50 0 0 P
-X ~ 6 0 -200 200 R 50 50 0 0 P
-X ~ 7 800 -300 200 L 50 50 0 0 P
-X ~ 8 0 -300 200 R 50 50 0 0 P
+S 200 100 400 -400 0 1 0 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 0 -100 200 R 50 50 0 0 P
+X ~ 3 0 -200 200 R 50 50 0 0 P
+X ~ 4 0 -300 200 R 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
