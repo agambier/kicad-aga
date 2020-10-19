@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP FINDER-40.61
+D FINDER 40.61, Single Pole Relay, 5mm Pitch, 16A
+K Single Pole Relay
+F https://www.finder-relais.net/en/finder-relays-series-40.pdf
+$ENDCMP
+#
 $CMP K10P-11D55-xxx
 F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308242_K10&DocType=DS&DocLang=English
 $ENDCMP
@@ -12,6 +18,24 @@ $CMP TDPT_2,5__3-SC-5,08
 D PHOENIX CONTACT - TDPT 2,5/ 3-SC-5,08 - TB, WIRE TO BRD, 3POS, 12AWG
 K TDPT
 F https://www.phoenixcontact.com/online/portal/us/pxc/product_detail_page/!ut/p/z1/3Vdbb9owFP4r7IG3Gtu5Z9IeILC2jNI0CS3JSxQ7BnnNrSFAx6-fw0W9bANNFdIWdCTsE5_vfOdzDjrAAE5hkEUrPo8qnmdRIvZ-oIVezxsMbEnDt3dqD133VWswUhx8NZbgPQxgUEUE-rheJZyUUfkD-ssFy2pHwWPxCGFdMeV6n89sy_oGfRtgDJAwdQvAq4QJp9VrVaxMuUjdIklOH1ug5fVtryVdqG3UUoBrAfUCGcJ9wHw4yrArWB0vYBeP_vDpolPxvojXQ-lS8LlS8M2tc6-jO9twTUv9al_2FOj-VpcXyUpGGV-xUiDVepV5vKRVn1URTxbXFUuv3wr4XtAinqV5zPbR-YLXN_cGS-w99lztfZQ-vldfQCRRNl9G8xrmREFa0wpSm1aQ3rCCnKb1kNO0HnKa1kNO03pIb1oP6U175fSm_SiM0X9XkHAsSw794pmCnAIuKMRbNp9F6i-HzEMYcJJ21jTtoI442tknC3dnw6IGE4Mz__70FHRhQPOsqklMawHaaM1IG6URF8t94KKNEr6otoFiLabg8DAFh9speBG-sG4jzYyxRKMYkJgwoMxUAgjBBEiaTnRJVgxmamKsDY5Orl28P3Bk8nVZFk7c0J5aE_fEZY8QfFhxtoaTLC9T8cfB3Sle35gWM6pqgrxmaDpQkIIBUTUTmNTEJqYS000VXqFTGaQPZjgBj88K3z8vvHdecTz5rPDyR9kPj77qI-Uj3VhQ8ks3Fn_bjUWaGnJtYDLdeIxsXpmB5P3DnYXjsbp6bf9gwBgERHOMm4Gs-MPVpjcGb78Cv_vpJw5XFwU!/?uri=pxc-oc-itemdetail:pid=1017492&library=usen&tab=1
+$ENDCMP
+#
+$CMP VOT8024AB
+D Zero Crossing Detector Opto-Triac, Vdrm 800V, Ift 5mA, DIP-4
+K Opto-Triac Opto Triac Zero Crossing Detector
+F https://www.vishay.com/docs/84919/vot8024ab.pdf
+$ENDCMP
+#
+$CMP VOT8024AD
+D Zero Crossing Detector Opto-Triac, Vdrm 800V, Ift 5mA, DIP-4
+K Opto-Triac Opto Triac Zero Crossing Detector
+F https://www.vishay.com/docs/84919/vot8024ab.pdf
+$ENDCMP
+#
+$CMP VOT8024AG
+D Zero Crossing Detector Opto-Triac, Vdrm 800V, Ift 5mA, DIP-4
+K Opto-Triac Opto Triac Zero Crossing Detector
+F https://www.vishay.com/docs/84919/vot8024ab.pdf
 $ENDCMP
 #
 $CMP VOT8121AB
