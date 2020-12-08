@@ -1,9 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4041
+D Quad Buffer Inverter
+K CMOS BUFFER
+F http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf
+$ENDCMP
+#
 $CMP FINDER-40.61
 D FINDER 40.61, Single Pole Relay, 5mm Pitch, 16A
 K Single Pole Relay
 F https://www.finder-relais.net/en/finder-relays-series-40.pdf
+$ENDCMP
+#
+$CMP HT4100F
+D 3A Telecom Non Latching Through Hole Relay RoHS
+K Single Pole Relay SPDT
+F https://datasheet.lcsc.com/szlcsc/1811060312_HTV-Ningbo-Bo-Yue-Elec-HT4100F-DC5V-SHG_C29166.pdf
 $ENDCMP
 #
 $CMP K10P-11D55-xxx
