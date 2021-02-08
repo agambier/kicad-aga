@@ -1,0 +1,11 @@
+(module breadboard-PAD-round (layer F.Cu) (tedit 601FA810)
+  (descr "breadboard PAD round")
+  (tags "pad, round")
+  (fp_text reference REF** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "Breadboard PAD" (at 0 -1.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+)
